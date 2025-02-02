@@ -1,8 +1,13 @@
-# 👩🏻‍💻 Lucas Vinicius
+<div align="center">
+  <h1>👋 Hello, I'm Lucas Vinicius</h1>
+  <h3>Frontend Developer</h3>
+</div>
 
-**`Desenvolvedor Front-end`**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lucasvpldeveloper&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
-Me chamo Lucas Vinicius Portela Leite, tenho 21 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU. Já trabalhei como Gerente em um posto de gasolina, no controle de estoque em uma cafeteria em Portugal e como cordenador geral em um colégio. Recentemente fiz uma transição em minha carreira para o desenvolvimento de Frontend e tenho trabalhado todos os dias para melhorar minhas habilidades.
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
